@@ -1,29 +1,29 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'MATEMATICA',
+    'quantos dias tem 1 ANO? ',
+    'UM ANO TEM 365 DIAS'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
+    'Qual E a capital da França?',
     'A capital da França é Paris'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'GEOGRAFIA',
+    'QUAL E A CAPITAL DA ALEMANHA?',
+    'A CAPITAL DA ALEMANHA E BERLIM'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'GEOGRAFIA',
+    'QUAL E A CAPITAL DA ARGENTINA ?',
+    'BUENOS AIRES'
 )
 
 criaCartao(
-    'Nova Pergunta',
-    'Isso é um teste?',
-    'SIM'
+    'GEOGRAFIA',
+    'QUANTOS HABITANTES TEM NO BRASIL?'
+    'NO BRASIL TEM 212,6 MILHOES DE HABITANTES'
 )
